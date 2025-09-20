@@ -1,0 +1,15 @@
+Problem: Two Sum ✅
+Difficulty: Easy
+Pattern: Hash Map + Complement Search
+
+Approaches:
+1. Brute Force: O(n²) time, O(1) space
+2. Array + indexOf: O(n²) time, O(n) space  
+3. Hash Map: O(n) time, O(n) space ← OPTIMAL
+
+Key Insight: Store elements as you iterate, check for complements
+Template: Map for O(1) lookups vs searching
+Next Similar: Contains Duplicate, Valid Anagram
+
+Date: 20-Sep-2025
+Status: MASTERED 🎯
