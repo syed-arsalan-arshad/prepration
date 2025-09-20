@@ -16,7 +16,7 @@ function twoSum(nums, target) {
     //     if(index >= 0){
     //         return [index, j];
     //     }
-    //     list.push(nums[j]); 
+    //     list.push(nums[j]);  
     // }
 
     // optimzed approach
